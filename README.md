@@ -1,2 +1,2 @@
-# datasets
-Datasets for scholars and the general public related to Jewish history
+# Datasets
+https://creativecommons.org/licenses/by-nc/4.0/
